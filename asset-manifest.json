@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/calci/static/css/main.dd4bdf98.chunk.css",
+    "main.js": "/calci/static/js/main.0c8c58ac.chunk.js",
+    "main.js.map": "/calci/static/js/main.0c8c58ac.chunk.js.map",
+    "runtime~main.js": "/calci/static/js/runtime~main.f3da3e60.js",
+    "runtime~main.js.map": "/calci/static/js/runtime~main.f3da3e60.js.map",
+    "static/css/2.de55ad5b.chunk.css": "/calci/static/css/2.de55ad5b.chunk.css",
+    "static/js/2.a331f423.chunk.js": "/calci/static/js/2.a331f423.chunk.js",
+    "static/js/2.a331f423.chunk.js.map": "/calci/static/js/2.a331f423.chunk.js.map",
+    "index.html": "/calci/index.html",
+    "precache-manifest.9d2219a1bcee6752fc93209182fdb39d.js": "/calci/precache-manifest.9d2219a1bcee6752fc93209182fdb39d.js",
+    "service-worker.js": "/calci/service-worker.js",
+    "static/css/2.de55ad5b.chunk.css.map": "/calci/static/css/2.de55ad5b.chunk.css.map",
+    "static/css/main.dd4bdf98.chunk.css.map": "/calci/static/css/main.dd4bdf98.chunk.css.map",
+    "static/media/bootstrap.min.css": "/calci/static/media/glyphicons-halflings-regular.fa277232.woff"
+  }
+}
